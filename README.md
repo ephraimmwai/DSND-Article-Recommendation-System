@@ -6,5 +6,5 @@
 -  Content Based Recommendations
 ### Instructions
 1. Clone the [repository](https://github.com/ephraimmwai/DSND-Article-Recommendation-System.git)
-2. Using Navigate to the root project folder and run ```python recommend.py```
+2. Navigate to the root project folder and run ```python recommend.py```
 - you might prefer changing the parameter in this file in order to make recommendations
